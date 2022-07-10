@@ -2,7 +2,11 @@
 based on https://github.com/lucyamy/LapX9C10X
 
 
-my article: https://nicuflorica.blogspot.com/2022/07/teste-cu-potentiometrul-digital-x9c103.html
+my articles: 
+
+1) romana https://nicuflorica.blogspot.com/2022/07/teste-cu-potentiometrul-digital-x9c103.html
+
+2) english: http://arduinotehniq.blogspot.com/2022/07/x9c103-digital-potentiometer-with.html
 
 ![montaj0](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHz1T1PDaD8ro51dlj_ujdesUKEHcxIRiVqJuoaozZzbi7W_R_9xv-MpG0ZFE3qQO2_KpPhCmYvprYq0xWSRiq3NUbvPo6J4dxJvDyN_nvCtJudm_YtDHv_FCSvOQleueU_Tnf5DZPoBZfTpHACrVA75j9VRYQ2cCHQBr2Yr6703TpBHAc0OLoP5CaPw/w200-h150/X9C103_module_11.jpg)
 ![montaj](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkNQavpS7r65TmlcDNIYFcR3-nJC_nxMH2JVwhUPISUCSqGzv1pdldmKI_RVv4_06ZkpEhoCPDn40vH6O4OZl2mOVV4YWbvHAjggm9j-TxcwLAXtkcnHWy_KotIghICIhZMlywNQuqXvf0f2EMGVEW88Q1wjSDD3N4nTZWBGhG_2CiVfuvSUWFuWdfQA/w200-h150/X9C103_module_9.jpg)
